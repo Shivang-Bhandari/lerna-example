@@ -1,17 +1,18 @@
 {
   "name": "@lerna-example-room/usage",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "publish-npm": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@lerna-example-room/button": "^1.2.4",
-    "@lerna-example-room/title": "^1.2.4"
+    "@lerna-example-room/button": "^1.2.5",
+    "@lerna-example-room/title": "^1.2.5"
   },
-  "gitHead": "adf36b9f4fb44a2176f38f5b21a6b58779785dc4"
+  "gitHead": "bd44d9878c8bcbd9a93e5c5806f506fe7eefda71"
 }

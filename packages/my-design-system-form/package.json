@@ -1,7 +1,10 @@
 {
   "name": "@lerna-example-room/my-design-system-form",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "adf36b9f4fb44a2176f38f5b21a6b58779785dc4"
+  "gitHead": "bd44d9878c8bcbd9a93e5c5806f506fe7eefda71",
+  "scripts": {
+    "publish-npm": "npm publish --access public"
+  }
 }
