@@ -1,6 +1,6 @@
 {
   "name": "@lerna-example-room/usage",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "button": "^1.2.0",
-    "title": "^1.2.0"
+    "@lerna-example-room/button": "^1.2.3",
+    "@lerna-example-room/title": "^1.2.3"
   }
 }
