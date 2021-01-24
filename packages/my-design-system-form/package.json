@@ -1,6 +1,7 @@
 {
   "name": "@lerna-example-room/my-design-system-form",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "adf36b9f4fb44a2176f38f5b21a6b58779785dc4"
 }
