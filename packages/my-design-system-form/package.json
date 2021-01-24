@@ -1,9 +1,9 @@
 {
-  "name": "@lerna-example-room/my-design-system-form",
-  "version": "1.2.5",
+  "name": "@thegrimorg/my-design-system-form",
+  "version": "1.2.6",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "bd44d9878c8bcbd9a93e5c5806f506fe7eefda71",
+  "gitHead": "dc7253ac8bc45c2c0b90d19c32fae060babdf2c0",
   "scripts": {
     "publish-npm": "npm publish --access public"
   }
