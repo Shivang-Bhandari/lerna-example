@@ -1,9 +1,9 @@
 {
   "name": "@thegrimorg/my-design-system-form",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "main": "index.js",
   "license": "MIT",
-  "gitHead": "dc7253ac8bc45c2c0b90d19c32fae060babdf2c0",
+  "gitHead": "328bb2628cfcb744ae7795166a3fe7c89857ac3b",
   "scripts": {
     "publish-npm": "npm publish --access public"
   }
