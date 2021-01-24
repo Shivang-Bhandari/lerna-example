@@ -1,6 +1,6 @@
 {
   "name": "usage",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "button": "^1.0.1",
-    "title": "^1.0.1"
+    "button": "^1.2.0",
+    "title": "^1.2.0"
   }
 }
