@@ -1,6 +1,6 @@
 {
   "name": "@thegrimorg/title",
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@thegrimorg/button": "^1.2.9"
+    "@thegrimorg/button": "^1.2.10"
   },
   "gitHead": "328bb2628cfcb744ae7795166a3fe7c89857ac3b"
 }
