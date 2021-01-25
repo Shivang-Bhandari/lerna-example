@@ -1,4 +1,5 @@
-console.log('haha')
-var kill = 'lolol'
-console.log('kill');
-module.exports = 'button'
+console.log('Hey this is a button!');
+
+module.exports = function button(text) {
+    return (`<button>${text}</button>`);
+}
