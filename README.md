@@ -15,5 +15,7 @@ The packages which are published can be found at:
 ## Requirements:
 
 - Use node v10.16.3
+- Lerna installed globally (npm i -g lerna)
 
-
+## Install dependencies
+lerna bootstrap
